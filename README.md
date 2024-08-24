@@ -1,4 +1,11 @@
-## Hi there 👋
+## 💫 About me:
+
+🎯 Competitive Programmer
+☁️ Enthusiastic about DevOps and MLOps
+🏐 Volleyball, Coffee, and Music
+
+
+
 
 <!--
 **syalejandrino/syalejandrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
