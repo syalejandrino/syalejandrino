@@ -1,8 +1,8 @@
 ## 💫 About me:
 
-🎯 Competitive Programmer \n
-☁️ Enthusiastic about DevOps and MLOps \n
-🏐 Volleyball, Coffee, and Music \n
+- 🎯 Competitive Programmer
+- ☁️ Enthusiastic about DevOps and MLOps
+- 🏐 Volleyball, Coffee, and Music
 
 
 
